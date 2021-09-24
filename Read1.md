@@ -20,6 +20,21 @@
 
 ***
 
+## Types of API Protocols
+
+* REST:
+  * REST is a web services API (short for Representational State Transfer).
+
+* SOAP:
+  * SOAP (simple object access protocol) is a well-known protocol that, like REST, is a form of Web API.
+
+  * SOAP was the first to define how programs should handle services via network connections.
+  
+* RPC:
+  * The earliest and most basic type of API interaction is the Remote Procedure Call. It's about running a piece of code on another server, and it may be turned into a Web API if done in HTTP or AMQP.
+
+***
+
 ## Benefits of API?
 
 * Increasing the positive customer experience.
