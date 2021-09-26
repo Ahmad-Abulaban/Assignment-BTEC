@@ -112,3 +112,18 @@ Requests can be sent to the following endpoint
 **My key is :- `daea5b55c97e4b488d70c878b1085e68`**
 
 ***
+***
+
+## Links
+
+* Frontend:
+
+  [GitHub repo link](https://github.com/Ahmad-Abulaban/city-explorer)
+
+  [Live URL link - Netlify](https://city-explorer-labs.netlify.app/)
+
+* Backend:
+
+  [GitHub repo link](https://github.com/Ahmad-Abulaban/city-explorer-api)
+
+  [Live URL link - Heroku](https://city-explorer9-api.herokuapp.com/)

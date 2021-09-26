@@ -53,3 +53,10 @@
 * An `API` is a collection of libraries that make up the core language and can be used right away, whereas an `SDK` is a development kit that makes it easier to use an API.
 
 ***
+***
+
+## Reference:-
+
+* [Reference1](https://www.mulesoft.com/resources/api/what-is-an-api)
+* [Reference2](https://searchapparchitecture.techtarget.com/tip/What-are-the-types-of-APIs-and-their-differences)
+* [Reference3](https://blog.api.rakuten.net/api-benefits/)
